@@ -190,7 +190,7 @@ class Notepad:
 
 	def run(self):
 
-		# Run main application
+		# Run main applicationtj
 		self.__root.mainloop()
 
 
